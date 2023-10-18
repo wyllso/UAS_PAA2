@@ -33,6 +33,5 @@ c. Average Case:
 TSP: TSP tidak memiliki kasus rata-rata yang jelas, karena kompleksitasnya tergantung pada banyak faktor, termasuk jumlah simpul, topologi graf, dan bobot edge. Namun, secara umum, TSP memiliki kompleksitas waktu yang tinggi dan rumit, dengan kompleksitas rata-rata yang diperkirakan sekitar O(n^2 2^n).
 
 Dijkstra: Dalam kasus rata-rata, kompleksitas waktu Dijkstra adalah O((V + E) log V), di mana V adalah jumlah node dan E adalah jumlah edge. Namun, pada graf dengan bobot non-negatif, Dijkstra dapat mencapai kompleksitas waktu O(V^2), karena pencarian jalur terpendek dapat dilakukan langsung tanpa menggunakan heap.
-
-# Andhika R.Atilu_F55121061 
+ 
 # Kelas B
